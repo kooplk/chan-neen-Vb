@@ -1,0 +1,25 @@
+C:\Users\NGKaKi\Desktop\POS\POS\bin\Debug\WindowsApplication1.exe.config
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.exe
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.xml
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.pdb
+C:\Users\NGKaKi\Desktop\POS\POS\bin\Debug\WindowsApplication1.exe
+C:\Users\NGKaKi\Desktop\POS\POS\bin\Debug\WindowsApplication1.pdb
+C:\Users\NGKaKi\Desktop\POS\POS\bin\Debug\WindowsApplication1.xml
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.frmCheck.resources
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.frmcorrect.resources
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\NGKaKi\Desktop\POS\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.vbproj.GenerateResource.Cache
+C:\Users\NGKaKi\Desktop\POS\bin\Debug\My Cafe POS.exe.config
+C:\Users\NGKaKi\Desktop\POS\bin\Debug\My Cafe POS.exe
+C:\Users\NGKaKi\Desktop\POS\bin\Debug\My Cafe POS.pdb
+C:\Users\NGKaKi\Desktop\POS\bin\Debug\My Cafe POS.xml
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.frmCheck.resources
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.FrmAccumlated.resources
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.frmMain.resources
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.frmcorrect.resources
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\POS.Resources.resources
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\My Cafe POS.exe
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\My Cafe POS.xml
+C:\Users\NGKaKi\Desktop\POS\obj\Debug\My Cafe POS.pdb
